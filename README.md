@@ -1,4 +1,4 @@
-# Basic Calculator 🧮
+# Basic Calculator
 
 A clean and modern web-based calculator with a responsive design and full keyboard support. Built with vanilla JavaScript, HTML, and CSS.
 
